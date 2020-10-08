@@ -1,0 +1,23 @@
+.midttekst{
+    text-align: center;
+}
+
+#pics{
+    width: 80px;
+    height: 80px;
+}
+
+#linkstekst{
+    text-align: center;
+    font-weight: bold;
+}
+
+#peter{
+    width: 90px;
+    height: 100px
+}
+
+#moves{
+    text-align: center;
+}
+
